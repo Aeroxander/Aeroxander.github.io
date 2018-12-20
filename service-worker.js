@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.515178524c7238da923450b4aeb36c89.js"
+  "/precache-manifest.8ab18de70f8a04e416920619495bd40b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "stylio"});
